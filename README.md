@@ -1,2 +1,6 @@
-# erd
-ERD
+# ERD
+* Entities
+* Actions
+* Attributes
+* Connecting lines
+* Cardinality
